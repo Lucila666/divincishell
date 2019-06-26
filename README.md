@@ -1,2 +1,2 @@
 # divincishell
-JUego de ingenio
+Juego de ingenio
